@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hannah, a trainee full stack JavaScript developer
+I am Hannah, a junior full stack JavaScript developer
 
 - 🌱 I’m currently learning React and C#
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hannah-han-94b493123/)
