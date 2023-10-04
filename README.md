@@ -2,7 +2,7 @@
 
 I am Hannah, a junior full stack JavaScript developer
 
-- 🌱 I’m currently learning React and C#
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hannah-han-94b493123/)
 - 😄 Pronouns: she/her
 
